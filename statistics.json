@@ -1,0 +1,43 @@
+{
+    "total_number_of_completed_requests": [
+        115
+    ],
+    "number_of_requests_by_http_methods": [
+        {
+            "POST": 10,
+            "GET": 105
+        }
+    ],
+    "top_3_ip_addresses": [
+        {
+            "91.113.11.120": 22,
+            "85.25.210.234": 19,
+            "71.183.126.99": 14
+        }
+    ],
+    "top_request_duration": [
+        [
+            {
+                "ip": "91.113.11.120",
+                "method": "GET",
+                "url": [],
+                "datatime": "24/Sep/2019:18:02:44",
+                "request_duration": 9965
+            },
+            {
+                "ip": "80.101.186.66",
+                "method": "GET",
+                "url": "https://www.google.co.uk/",
+                "datatime": "24/Sep/2019:21:11:33",
+                "request_duration": 9925
+            },
+            {
+                "ip": "91.113.11.120",
+                "method": "GET",
+                "url": [],
+                "datatime": "24/Sep/2019:18:02:44",
+                "request_duration": 9707
+            }
+        ]
+    ]
+}
